@@ -18,7 +18,7 @@ public class inputjejarii {
        
        double luas = jejari * jejari * 3.14159;
        
-       System.out.println("Luas bagi bulatan yang mempunyai jejari " +jejari + " adalah : " +luas);
+       System.out.println("Luas bagi bulatan yang mempunyai jejari : " +jejari + " adalah : " +luas);
    }
     
 }
